@@ -54,10 +54,10 @@
       "reponses":
       {
         "hobbies": "Déguiser mon canard OCTO avec de la patafix",
-        "mission": "Trouver des bugs sur l'application Hello Bank!",
-        "funfact": "Je ne suis encore jamais allée au K1ZE !",
+        "mission": "",
+        "funfact": "Je ne suis encore jamais allé au K1ZE !",
         "citation": "\"Avec l’application OCTO AR, les publications OCTO prennent du relief !\" - VGU",
-        "technos": "Kotlin, Unity"
+        "technos": "Kotlin, Ruby"
       }
     },
     {
@@ -77,11 +77,11 @@
       "name": "Cour St ZEMAlion",
       "reponses":
       {
-        "hobbies": "",
-        "mission": "",
-        "funfact": "",
-        "citation": "",
-        "technos": ""
+        "hobbies": "Collectionner des timbres",
+        "mission": "IDFM ? IDFM : FML",
+        "funfact": "Je peux manger 4 petit-beurre en moins d'une minute",
+        "citation": "\"Light weight baby !\" - Ronnie Coleman",
+        "technos": "Node, Vue, AWS"
       }
     },
     {
@@ -89,11 +89,11 @@
       "name": "BNFMI",
       "reponses":
       {
-        "hobbies": "Le code bien fait, la guitare, nintendo, les cubes",
-        "mission": "Premier et dernier des COSMOs - du conseil - mentoring de la meilleure skool ;-)",
-        "funfact": "J'ai \"conduit\" un TGV à pleine vitesse \\o/",
-        "citation": "\"Le train de tes injures roule sur le rail de mon indifférence\"",
-        "technos": "Java, Kotlin, Android, Spring"
+        "hobbies": "",
+        "mission": "",
+        "funfact": "",
+        "citation": "",
+        "technos": ""
       }
     },
     {
