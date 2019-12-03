@@ -59,22 +59,22 @@
       "quadrigramme": "BEMO",
       "name": "BEMOrcy",
       "reponses": {
-        "hobbies": "",
-        "mission": "",
-        "funfact": "",
-        "citation": "",
-        "technos": ""
+        "hobbies": "La musique et les jeux video",
+        "mission": "Casser la prod sur Hello Bank :evil:",
+        "funfact": "Reprise, pissette, roulette",
+        "citation": "Par ce qu'on a qu'une seule vie",
+        "technos": "Kotlin EveryWhere"
       }
     },
     {
       "quadrigramme": "ZEMA",
       "name": "Cour St ZEMAlion",
       "reponses": {
-        "hobbies": "",
-        "mission": "",
-        "funfact": "",
-        "citation": "",
-        "technos": ""
+        "hobbies": "Collectionner des timbres",
+        "mission": "IDFM ? IDFM : FML",
+        "funfact": "Je peux manger 4 petit-beurre en moins d'une minute",
+        "citation": "\"Light weight baby !\" - Ronnie Coleman",
+        "technos": "Node, Vue, AWS"
       }
     },
     {
