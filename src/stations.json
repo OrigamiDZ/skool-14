@@ -1,10 +1,9 @@
-{ "data":
-  [
+{
+  "data": [
     {
       "quadrigramme": "SOL",
       "name": "Saint O'Lazare",
-      "reponses":
-      {
+      "reponses": {
         "hobbies": "",
         "mission": "",
         "funfact": "",
@@ -15,8 +14,7 @@
     {
       "quadrigramme": "MADE",
       "name": "MADEleine",
-      "reponses":
-      {
+      "reponses": {
         "hobbies": "Avoir le style de Rafaël Nadal sans le talent",
         "mission": "Distribuer des applications sur vos mobiles",
         "funfact": "Je suis la seule personne à aimer les capsules nespresso vanilla",
@@ -26,12 +24,11 @@
     },
     {
       "quadrigramme": "YAMA",
-      "name": "P'YAMAdes",
-      "reponses":
-      {
-        "hobbies": "",
+      "name": "Pi'YAMAdes",
+      "reponses": {
+        "hobbies": "Tester tous les sports qui se présentent à moi",
         "mission": "Je maintiens Twig sur les rails",
-        "funfact": "",
+        "funfact": "Je suis restée coincée dans une bulle",
         "citation": "\"Tomorrow is a magic place where 99% of all human creativity, motivation and goals are achived\"",
         "technos": "React, Rails, Javascript"
       }
@@ -39,8 +36,7 @@
     {
       "quadrigramme": "TOPI",
       "name": "ChâTOPI",
-      "reponses":
-      {
+      "reponses": {
         "hobbies": "Lire tout ce qui me tombe sous la main",
         "mission": "40 OCTO + de l'agriculture, ça vous dit quelque chose ?",
         "funfact": "Je suis des Flandres mais je fais des polyphonies corses",
@@ -51,8 +47,7 @@
     {
       "quadrigramme": "ADZO",
       "name": "Gare d'ADZO",
-      "reponses":
-      {
+      "reponses": {
         "hobbies": "Déguiser mon canard OCTO avec de la patafix",
         "mission": "",
         "funfact": "Je ne suis encore jamais allé au K1ZE !",
@@ -63,21 +58,19 @@
     {
       "quadrigramme": "BEMO",
       "name": "BEMOrcy",
-      "reponses":
-      {
-        "hobbies": "",
-        "mission": "",
-        "funfact": "",
-        "citation": "",
-        "technos": ""
+      "reponses": {
+        "hobbies": "La musique et les jeux video",
+        "mission": "Casser la prod sur Hello Bank :evil:",
+        "funfact": "Reprise, pissette, roulette",
+        "citation": "Par ce qu'on a qu'une seule vie",
+        "technos": "Kotlin EveryWhere"
       }
     },
     {
       "quadrigramme": "ZEMA",
       "name": "Cour St ZEMAlion",
-      "reponses":
-      {
-        "hobbies": "Collectionner des timbres",
+      "reponses": {
+        "hobbies": "Collectionner les timbres",
         "mission": "IDFM ? IDFM : FML",
         "funfact": "Je peux manger 4 petit-beurre en moins d'une minute",
         "citation": "\"Light weight baby !\" - Ronnie Coleman",
@@ -87,20 +80,18 @@
     {
       "quadrigramme": "FMI",
       "name": "BNFMI",
-      "reponses":
-      {
-        "hobbies": "",
-        "mission": "",
-        "funfact": "",
-        "citation": "",
-        "technos": ""
+      "reponses": {
+        "hobbies": "Le code bien fait, la guitare, nintendo, les cubes",
+        "mission": "Premier et dernier des COSMOs - du conseil - mentoring de la meilleure skool ;-)",
+        "funfact": "J'ai \"conduit\" un TGV à pleine vitesse \\o/",
+        "citation": "\"Le train de tes injures roule sur le rail de mon indifférence\"",
+        "technos": "Java, Kotlin, Android, Spring"
       }
     },
     {
       "quadrigramme": "VAAL",
       "name": "VAALympiade",
-      "reponses":
-      {
+      "reponses": {
         "hobbies": "",
         "mission": "",
         "funfact": "",
