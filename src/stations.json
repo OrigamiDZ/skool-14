@@ -62,8 +62,8 @@
       "name": "Gare d'ADZO",
       "reponses": {
         "hobbies": "Déguiser mon canard OCTO avec de la patafix",
-        "mission": "",
-        "funfact": "Je ne suis encore jamais allé au K1ZE !",
+        "mission": "Chercher des bugs sur l'application Hello Bank!",
+        "funfact": "Je ne suis encore jamais allée au K1ZE !",
         "citation": "\"Avec l’application OCTO AR, les publications OCTO prennent du relief !\" - VGU",
         "technos": [
           "Kotlin", 
@@ -75,10 +75,10 @@
       "quadrigramme": "BEMO",
       "name": "BEMOrcy",
       "reponses": {
-        "hobbies": "La musique et les jeux video",
+        "hobbies": "La musique et les jeux vidéo",
         "mission": "Casser la prod sur Hello Bank :evil:",
         "funfact": "Reprise, pissette, roulette",
-        "citation": "Par ce qu'on a qu'une seule vie",
+        "citation": "Parce qu'on a qu'une seule vie",
         "technos": [
           "Kotlin"
         ]      
