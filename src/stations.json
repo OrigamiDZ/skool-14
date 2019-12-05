@@ -8,7 +8,10 @@
         "mission": "",
         "funfact": "",
         "citation": "",
-        "technos": "Ruby, JavaScript"
+        "technos": [
+          { "techno1": "Ruby" },
+          { "techno3": "JavaScript" } 
+        ] 
       }
     },
     {
@@ -19,7 +22,10 @@
         "mission": "Distribuer des applications sur vos mobiles",
         "funfact": "Je suis la seule personne à aimer les capsules nespresso vanilla",
         "citation": "\"Je lis plein de livres, après les gens il me croivent ou ils me croivent pas\" - Steevy Boulay",
-        "technos": "Rails, React"
+        "technos": [
+          { "techno1": "Rails" },
+          { "techno2": "React" }
+        ]
       }
     },
     {
@@ -30,7 +36,11 @@
         "mission": "Je maintiens Twig sur les rails",
         "funfact": "Je suis restée coincée dans une bulle",
         "citation": "\"Tomorrow is a magic place where 99% of all human creativity, motivation and goals are achived\"",
-        "technos": "React, Rails, Javascript"
+        "technos": [
+          { "techno1": "Rails" },
+          { "techno2": "React" },
+          { "techno3": "JavaScript" } 
+        ]      
       }
     },
     {
@@ -41,7 +51,10 @@
         "mission": "40 OCTO + de l'agriculture, ça vous dit quelque chose ?",
         "funfact": "Je suis des Flandres mais je fais des polyphonies corses",
         "citation": "GOTO considered harmful",
-        "technos": "PL/SQL #1992 (mais je me soigne), JavaScript #2019"
+        "technos": [
+          { "techno1": "PL/SQL" }, 
+          { "techno2": "JavaScript" }
+        ]
       }
     },
     {
@@ -52,7 +65,10 @@
         "mission": "",
         "funfact": "Je ne suis encore jamais allé au K1ZE !",
         "citation": "\"Avec l’application OCTO AR, les publications OCTO prennent du relief !\" - VGU",
-        "technos": "Kotlin, Ruby"
+        "technos": [
+          { "techno1": "Kotlin" }, 
+          { "techno2": "Unity" }
+        ]
       }
     },
     {
@@ -63,7 +79,9 @@
         "mission": "Casser la prod sur Hello Bank :evil:",
         "funfact": "Reprise, pissette, roulette",
         "citation": "Par ce qu'on a qu'une seule vie",
-        "technos": "Kotlin EveryWhere"
+        "technos": [
+          { "techno1": "Kotlin" }
+        ]      
       }
     },
     {
@@ -74,7 +92,11 @@
         "mission": "IDFM ? IDFM : FML",
         "funfact": "Je peux manger 4 petit-beurre en moins d'une minute",
         "citation": "\"Light weight baby !\" - Ronnie Coleman",
-        "technos": "Node, Vue, AWS"
+        "technos": [
+          { "techno1": "NodeJs" },
+          { "techno2": "VueJs" },
+          { "techno3": "AWS" } 
+        ] 
       }
     },
     {
@@ -85,7 +107,12 @@
         "mission": "Premier et dernier des COSMOs - du conseil - mentoring de la meilleure skool ;-)",
         "funfact": "J'ai \"conduit\" un TGV à pleine vitesse \\o/",
         "citation": "\"Le train de tes injures roule sur le rail de mon indifférence\"",
-        "technos": "Java, Kotlin, Android, Spring"
+        "technos": [
+          { "techno1": "Java" },
+          { "techno2": "Kotlin" },
+          { "techno3": "Android" },
+          { "techno4": "Spring" }
+        ]
       }
     },
     {
@@ -93,11 +120,15 @@
       "name": "VAALympiade",
       "reponses":
       {
-        "hobbies": "je ne meurt pas, je respawn :)",
-        "mission": "j'améliore le process de la police ;)",
+        "hobbies": "Je ne meurs pas, je respawn :)",
+        "mission": "J'améliore le process de la police ;)",
         "funfact": "J'aime les films nuls",
         "citation": "\"Je suis quelqu'un que j'aime beaucoup rigoler, que j'aime blaguer - Ribéry\"",
-        "technos": "React,VueJs,Node"
+        "technos": [
+          { "techno1": "NodeJs" },
+          { "techno2": "VueJs" },
+          { "techno3": "React" } 
+        ]       
       }
     }
   ]
